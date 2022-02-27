@@ -34,9 +34,9 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.stiker_wait = 'Stiker sedang dibuat'
-global.packname = 'ShiraoriBOT Multi device'
-global.author = 'Ilman'
+global.stiker_wait = 'Sabar ya bos'
+global.packname = '6288245009287'
+global.author = 'ArieTube'
 global.email = 'wakabahiiro5@gmail.com'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wm = '© ArieTube'
